@@ -1,0 +1,11 @@
+.twoTimesButton {
+    color: #b1b3b5;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+    border: none;
+}
+
+.twoTimesButton.active {
+    color: #00af9c;
+}
